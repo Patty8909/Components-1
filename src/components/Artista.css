@@ -1,0 +1,9 @@
+p {
+  font-size: 10px;
+}
+
+#card {
+  box-shadow: 10px 10px 5px grey;
+  padding-right: 0px;
+  padding-left: 0px;
+}
